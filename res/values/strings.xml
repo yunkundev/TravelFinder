@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TravelFinder</string>
+    <string name="register">注册</string><string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">登陆</string>
+    <string name="password">密码</string><string name="textinfo1">请输入你的账号</string><string name="password2">确认</string><string name="name">账号</string>   
+    <string name="textinfo3">请再次输入你的密码</string><string name="Welcome">Welcome to the TravelFinder</string><string name="textinfo2">请输入你的密码</string>
+    <string name="textinfo4">长度6~12位，由数字或字母组成</string>
+    <string name="textinfo5">长度6~18位，由数字或字母组成</string>
+    <string name="qita">其他</string><string name="mainpageinfo">请选择你想去的景点:</string>
+    <string name="time">你选择旅行时间为：</string>
+    <string name="next">下一步</string><string name="start">启程</string>
+    <string name="over">完成</string>
+    <string name="before">上一步</string>
+    <string name="time_start">>选择旅行的开始日期：</string>
+    <string name="time_end">>选择旅行的结束日期：</string>
+    <string name="day_start">.</string>
+    <string name="day_end">.</string>
+    <string name="moneyinfo">&gt;请选择你的预期花费:</string>
+    <string name="change">下一方案</string>
+    <string name="cityinfo">>请选择你的景点：</string>
+    <string name="textinfo6">请输入你11位的手机号</string>
+    <string name="phone">手机</string>
+    <string name="back">返回登陆</string>
+    <string name="register2">完成注册</string>
+    <string name="other">&gt;对其他方面的要求：</string>
+    <string name="Rio1">1000~2000</string>
+    <string name="Rio2">2000~3000</string>
+    <string name="Rio3">3000~5000</string>
+    <string name="Rio4">有钱，任性</string>
+    <string name="Check1">住宿条件好，有洗浴</string>
+    <string name="Check2">安全第一，晚上不出行</string>
+    <string name="Check3">我是吃货，尝遍北京小吃</string>
+    <string name="place1">故宫</string>
+    <string name="outinfo">亲，这是我们为你安排的行程:</string>
+    <string name="out1">就是他了，替我联系相关酒店</string>
+    <string name="out2">这次不满意，再进行一次选择</string>
+    <string name="geren">完善个人资料</string>
+    <string name="city">城市:</string>
+    <string name="pickdate">&gt;请选择日期:</string>
+    <string name="picktime">&gt;请选择时间:</string>
+    <string name="pp1">点击选取日期</string>
+
+</resources>
